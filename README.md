@@ -9,3 +9,6 @@ Un monorepo nos permite compartir código, configuraciones, dependencias... entr
 Para más información puedes visitar la [documentación](https://pnpm.io/workspaces)
 
 También es posible crear monorepos con otros gestores de paquetes como [NPM](https://docs.npmjs.com/cli/v10/using-npm/workspaces)
+
+## Vídeo
+[Ver vídeo en YouTube](https://youtu.be/_xz2dY_Z7ec)
